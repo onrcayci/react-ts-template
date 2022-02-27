@@ -1,0 +1,20 @@
+{
+  "name": "react-ts-template",
+  "version": "1.0.0",
+  "description": "My React with TypeScript setup that I use in my React projects.",
+  "main": "src/index.tsx",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onrcayci/react-ts-template.git"
+  },
+  "author": {
+    "name": "Onur Cayci",
+    "email": "onur.cayci@outlook.com"
+  },
+  "bugs": {
+    "url": "https://github.com/onrcayci/react-ts-template/issues"
+  },
+  "homepage": "https://github.com/onrcayci/react-ts-template#readme"
+}
