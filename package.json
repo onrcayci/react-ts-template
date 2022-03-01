@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "My React with TypeScript setup that I use in my React projects.",
   "main": "src/index.tsx",
-  "scripts": {},
+  "scripts": {
+    "start": "webpack serve --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/onrcayci/react-ts-template.git"
